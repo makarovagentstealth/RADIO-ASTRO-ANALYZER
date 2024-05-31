@@ -1,0 +1,9 @@
+{
+  "frequencia_central": 1.0e10,
+  "potencia_transmitida": 10,
+  "ganho_antena": 2,
+  "fator_atenuacao": 1,
+  "distancia": 1000,
+  "temperatura": 300
+}
+
